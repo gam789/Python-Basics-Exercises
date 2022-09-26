@@ -1,2 +1,2 @@
 # Python-Basics-Exercises
-Exercises  related to Python-Basics topics
+Exercises  related to Python-Basics topic
